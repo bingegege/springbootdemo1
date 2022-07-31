@@ -1,11 +1,14 @@
+/*
 package com.example.springbootdemo1.service;
 
+*/
 /**
  *
  *
  * @author zhenghuan
  * @date 2022/2/10
- */
+ *//*
+
 public class Test {
     public static void main(String[] args) {
         System.out.println("1111");
@@ -21,3 +24,4 @@ public class Test {
     2222
     3333
 }
+*/
